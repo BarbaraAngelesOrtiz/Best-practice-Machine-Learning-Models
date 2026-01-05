@@ -349,3 +349,17 @@ RandomForestClassifier(n_estimators=RF_N_ESTIMATORS)
 >
 > **If two people get different results, the notebook is incorrectly structured.**
 
+---
+
+## Author
+**Bárbara Ángeles Ortiz**
+
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 December 2025
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+
+
